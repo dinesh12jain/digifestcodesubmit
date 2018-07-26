@@ -1,8 +1,8 @@
 let config = {
     // TODO Add Application ID
-    appId : '<APP-ID>',
+    appId : 'amzn1.ask.skill.9877cd48-b229-4e79-a755-a70ae0967d67',
     // TODO Add an appropriate welcome message.
-    welcome_message : '<WELCOME_MESSAGE>',
+    welcome_message : 'welcome to my feed',
 
     number_feeds_per_prompt : 3,
     speak_only_feed_title : true,
@@ -10,8 +10,8 @@ let config = {
 
     // TODO Add the category name (to feed name) and the corresponding URL
     feeds : {
-        'CATEGORY_NAME_1' : '<FEED_URL>',
-        'CATEGORY_NAME_2' : '<FEED_URL>',
+        '',
+        '',
         'CATEGORY_NAME_3' : '<FEED_URL>'
 
     },
